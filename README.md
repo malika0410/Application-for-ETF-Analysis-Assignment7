@@ -43,6 +43,12 @@ Steps:
   ```bash
  jupyter lab
  ```
+ 
+  Upon launching the application in Jupyter lab notebook, run the file by using the run button on the top of the notepad.
+
+![image](https://user-images.githubusercontent.com/127723380/232632258-f700f348-96df-467e-a044-a22e64c4f002.png)
+
+
 
 
 
