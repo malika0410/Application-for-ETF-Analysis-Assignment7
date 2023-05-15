@@ -37,6 +37,12 @@ Steps:
 
 ![App Screenshot](https://github.com/malika0410/Application-for-ETF-Analysis-Assignment7/blob/main/images/deployment_Pg_1.PNG)
 
+![App Screenshot](https://github.com/malika0410/Application-for-ETF-Analysis-Assignment7/blob/main/images/deployment_Pg_1.PNG)
+
+![App Screenshot](https://github.com/malika0410/Application-for-ETF-Analysis-Assignment7/blob/main/images/dep_pg2.PNG)
+
+![App Screenshot](https://github.com/malika0410/Application-for-ETF-Analysis-Assignment7/blob/main/images/dep3.PNG)
+
 ## Usage
 
   To use this application, simply clone the repository and open jupyter lab from git bash by running the following command:
